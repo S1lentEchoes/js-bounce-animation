@@ -16,4 +16,4 @@ This will call css-animation.js a number of times (defined by the initializing f
 
 I think that about covers it, any more code explanations that may be needed can easily be found inside the file's comments. I have included both the normal version, and the minified version.
 
-I also have an alternate version for bounce, which does not use the css-animation.js function and instead uses it's own interval loop.  You can find it over at - !!!!!!!!!!!!!!!bounce-alernate.js!!!!!!!!!!!!!!
+I also have an alternate version for bounce, which does not use the css-animation.js function and instead uses it's own interval loop.  You can find it over at - https://github.com/S1lentEchoes/js-bounce-animation-alternate-version
